@@ -15,7 +15,7 @@ const Footer = () => {
                             <input type="text" name="" id="" placeholder='+998' className='w-[236px] h-[40px] px-2 py-4 rounded-[30px] border-[3px] border-black mr-2 sm:w-full'/>
                             <input type="text" name="" id="" placeholder='Ваше имя' className='w-[236px] h-[40px] px-2 py-4 rounded-[30px] border-[3px] border-black sm:w-full'/>
                             <div className='w-[40px] h-[40px] flex justify-center items-center bg-[#292AFF] rounded-full'>
-                                <img src={Telegram} alt="" className='w-[30px] h-[30px] ml-[2px] sm:ml-[-3px]'/>
+                                <img src={Telegram} alt="" className='w-[20px] h-[20px]  '/>
                             </div>
                         </div>
                         </div>

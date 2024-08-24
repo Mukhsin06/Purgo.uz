@@ -29,7 +29,7 @@ const Nav = () => {
         </div>
         <div className="w-full h-full flex justify-center items-center">
           <div className="w-[50%] h-full pt-20 flex flex-col justify-start items-center sm:w-full sm:pt-10">
-            <h1 className="text-white text-[60px] w-[636px] tracking-[3px] sm:tracking-[.1px] sm:w-full sm:text-[46px] sm:px-4 leading-[70px]">
+            <h1 className="text-white text-[60px] w-[736px] tracking-[3px] sm:tracking-[.1px] sm:w-full sm:text-[46px] sm:px-4 leading-[70px] ml-[90px]">
               Гарантированные и качественные сантехнические услуги
             </h1>
             <button
@@ -41,7 +41,7 @@ const Nav = () => {
                 <img src={Arrow} alt="Arrow" />
               </div>
             </button>
-            <p className="text-white text-[24px] mt-20 ml-[-170px] w-[450px] tracking-[2px] leading-[34.34px] sm:ml-0 sm:w-full sm:px-4 sm:mt-10">
+            <p className="text-white  text-[24px] mt-20 ml-[-110px] w-[520px] tracking-[2px] leading-[34.34px] sm:ml-0 sm:w-full sm:px-4 sm:mt-10">
               Экспертные сантехнические решения: надежный ремонт и установка, обслуживание домов и предприятий
             </p>
           </div>
