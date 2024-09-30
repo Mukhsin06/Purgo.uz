@@ -9,9 +9,9 @@ const Cards = () => {
       <div>
         <div className='w-full h-[1600px] pb-10  bg-[#E3E3E3] sm:w-full sm:h-auto sm:pb-10'>
           <div className='w-[98%] h-full bg-white mx-auto rounded-[30px]  flex sm:px-12 flex-wrap justify-center items-start py-10 sm:py-5 gap-12 sm:gap-8 sm:flex-col '>
-            <div className='w-[620px]   h-[333px] flex flex-col px-6 pt-10 sm:w-[360px] sm:ml-[-36px] sm:h-[420px] bg-[#292AFF] rounded-[15px]'>
-              <p className='text-[30px] sm:w-[90%] lg:w-[500px] text-white' style={{lineHeight: "35.63px"}}>Наши сантехнические услуги – комплексные решения для вашего дома и бизнеса!</p>
-              <img src={Img} alt=""  className='w-[170px] ml-80 mt-[-20px] sm:ml-10 sm:mt-5'/>
+            <div className='w-[620px]   h-[333px] flex flex-col px-6 pt-10 sm:w-[290px] sm:ml-[-5px] sm:h-[380px] bg-[#292AFF] rounded-[15px]'>
+              <p className='text-[30px] sm:w-[90%] lg:w-[500px] text-white sm:text-[23px]' style={{lineHeight: "35.63px"}}>Наши сантехнические услуги – комплексные решения для вашего дома и бизнеса!</p>
+              <img src={Img} alt=""  className='w-[170px] ml-80 mt-[-20px] sm:ml-0 sm:mt-2'/>
             </div>
             <div className='w-[285px] h-[328px] sm:w-full'>
               <div className='w-full h-[280px] flex justify-start items-end px-4 pb-4' style={{backgroundImage: `url(${Img1})`}}>
