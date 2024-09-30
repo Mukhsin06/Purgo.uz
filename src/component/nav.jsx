@@ -21,15 +21,15 @@ const Nav = () => {
               <Link to="/">Этап работы</Link>
             </div>
           </div>
-          <div className="w-[50%] flex justify-end items-center pr-20 sm:pr-0 sm:w-full">
-            <button className="w-[140px] h-[40px] bg-[#2728B4] rounded-[90px] text-white">
+          <div className="w-[50%] flex justify-end items-center pr-20 sm:pr-8 sm:w-full">
+            <button className="w-[140px] h-[40px] bg-[#2728B4] rounded-[90px] text-white ">
               Контакты
             </button>
           </div>
         </div>
         <div className="w-full h-full flex justify-center items-center">
           <div className="w-[50%] h-full pt-20 flex flex-col justify-start items-center sm:w-full sm:pt-10">
-            <h1 className="text-white text-[60px] w-[736px] tracking-[3px] sm:tracking-[.1px] sm:w-full sm:text-[46px] sm:px-4 leading-[70px] ml-[90px]">
+            <h1 className="text-white text-[60px] w-[736px] tracking-[3px] sm:tracking-[.1px] sm:w-full sm:text-[46px] sm:px-4 leading-[70px] ml-[10px]">
               Гарантированные и качественные сантехнические услуги
             </h1>
             <button
